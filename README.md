@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+AI | Systems | Engineering Leadership
+
+I build and explore AI-native systems, scalable architectures, and practical engineering solutions.
+
+Focus Areas:
+- Applied AI & Agentic Systems
+- System Architecture
+- Engineering Productivity
+
 <!--
 **kumarpindia/kumarpindia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
